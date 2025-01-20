@@ -1,6 +1,14 @@
 # **Ethereal UnityVerse DAO**
 
+
+
+    -----------------------------------------------------------------------------------------------------------------------------
     *OBS: Esta documentação, assim como o nome sugerido para o projeto são fictícios, apenas para cumprimento de uma jornada de estudos ao qual venho realizando com o objetivo de adquirir conhecimentos técnicos dentro da tecnologia BlockChain. Não trata-se, pelo menos até o presente momento (Janeiro/2025) de algo que vá ser criado de fato.*
+
+    *NOTE: This documentation, as well as the suggested project name, is fictional, created for the purpose of my ongoing learning journey to acquire technical knowledge in blockchain technology. As of January 2025, this is not something that is planned to be created yet.*
+    -----------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## **Visão Geral do Projeto - Versão 1.00**
 
@@ -91,12 +99,20 @@ Este projeto é de código aberto e estamos abertos a contribuições de qualque
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
 
+## **Contato**
+Para dúvidas ou sugestões, entre em contato:
 
-**======================================================================================================================================================================**
+Email: claudinei.d.gomes@gmail.com
+
+GitHub: **[github.com/ClaudinGomes]**
+
+
+
+**=====================================================================================================================================**
+
+
 
 # **Ethereal UnityVerse DAO**
-
-*NOTE: This documentation, as well as the suggested project name, is fictional, created for the purpose of my ongoing learning journey to acquire technical knowledge in blockchain technology. As of January 2025, this is not something that is planned to be created yet.*
 
 ## **Project Overview - Version 1.00**
 
@@ -187,4 +203,9 @@ This project is open source, and we welcome contributions from anyone interested
 
 This project is licensed under the [MIT License](LICENSE).
 
+## **Contact**
+For questions or suggestions, please contact:
 
+Email: claudinei.d.gomes@gmail.com
+
+GitHub: **[github.com/ClaudinGomes]**
